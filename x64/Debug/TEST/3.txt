@@ -1,0 +1,13 @@
+Solution
+We perform the test of hypotheses using the five-step procedure given at the end of Section 8.1.
+
+Step 1. The natural assumption is that the new drug is no better than the old one, but must be proved to be better. Thus if  μ
+  denotes the average time until all patients who are given the new drug experience pain relief, the hypothesis test is
+H0:μ=3.5vsHa:μ<3.5@α=0.05
+Step 2. The sample is large, but the population standard deviation is unknown (the  2.1
+  minutes pertains to the old drug, not the new one). Thus the test statistic is
+Z=x¯−μ0s/n−−√
+ 
+and has the standard normal distribution.
+Step 3. Inserting the data into the formula for the test statistic gives
+Z=x¯−μ0s/n−−√=3.1−3.51.5/50−{⸲��&d

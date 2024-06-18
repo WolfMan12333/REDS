@@ -1,0 +1,13 @@
+A cosmetics company fills its best-selling  8
+  ounce jars of facial cream by an automatic dispensing machine. The machine is set to dispense a mean of  8.1
+  ounces per jar. Uncontrollable factors in the process can shift the mean away from  8.1
+  and cause either underfill or overfill, both of which are undesirable. In such a case the dispensing machine is stopped and recalibrated. Regardless of the mean amount dispensed, the standard deviation of the amount dispensed always has value  0.22
+  ounce. A quality control engineer routinely selects  30
+  jars from the assembly line to check the amounts filled. On one occasion, the sample mean is  x¯=8.2
+  ounces and the sample standard deviation is  s=0.25
+  ounce. Determine if there is sufficient evidence in the sample to indicate, at the  1%
+  level of significance, that the machine should be recalibrated.
+
+Solution
+Step 1. The natural assumption is that the machine is working properly. Thus if  μ
+  denotes the mean amount of facial cream being dispensed, the hypothesis tes֊b

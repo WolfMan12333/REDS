@@ -1,0 +1,17 @@
+n this section we describe and demonstrate the procedure for conducting a test of hypotheses about the mean of a population in the case that the sample size  n
+  is at least  30
+ . The Central Limit Theorem states that  X¯¯¯¯
+  is approximately normally distributed, and has mean  μX¯¯¯¯¯=μ
+  and standard deviation  σX¯¯¯¯¯=σ/n−−√
+ , where  μ
+  and  σ
+  are the mean and the standard deviation of the population. This implies that the statistic
+
+x¯−μσ/n−−√
+ 
+has the standard normal distribution, which means that probabilities related to it are given in Figure 7.1.5 and the last line in Figure 7.1.6.
+
+If we know  σ
+  then the statistic in the display is our test statistic. If, as is typically the case, we do not know  σ
+ , then we replace it by the sample standard deviation  s
+ . Since the sample is large the resulting test statistic still has a distribution that is approximately standard normal.

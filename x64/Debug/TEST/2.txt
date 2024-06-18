@@ -1,0 +1,24 @@
+Standardized Test Statistics for Large Sample Hypothesis Tests Concerning a Single Population Mean
+ If  σ
+  is known:  Z=x¯−μ0σ/n√
+  
+If  σ
+  is unknown:  Z=x¯−μ0s/n√
+ 
+The test statistic has the standard normal distribution.
+
+The distribution of the standardized test statistic and the corresponding rejection region for each form of the alternative hypothesis (left-tailed, right-tailed, or two-tailed), is shown in Figure  8.2.1
+ .
+
+Distribution of the Standardized Test Statistic and the Rejection Region
+Figure  8.2.1
+ : Distribution of the Standardized Test Statistic and the Rejection Region
+Example  8.2.1
+ 
+It is hoped that a newly developed pain reliever will more quickly produce perceptible reduction in pain to patients after minor surgeries than a standard pain reliever. The standard pain reliever is known to bring relief in an average of  3.5
+  minutes with standard deviation  2.1
+  minutes. To test whether the new pain reliever works more quickly than the standard one,  50
+  patients with minor surgeries were given the new pain reliever and their times to relief were recorded. The experiment yielded sample mean  x¯=3.1
+  minutes and sample standard deviation  s=1.5
+  minutes. Is there sufficient evidence in the sample to indicate, at the  5%
+  level of significance, that the newly developed pain reliever does deliver perceptible relief more quickly)

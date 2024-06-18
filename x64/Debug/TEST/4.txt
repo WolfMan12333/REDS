@@ -1,0 +1,11 @@
+Step 4. Since the symbol in  Ha
+  is “ <
+ ” this is a left-tailed test, so there is a single critical value,  −zα=−z0.005
+ , which from the last line in Figure 7.1.6 we read off as  −1.645
+ . The rejection region is  (−∞,−1.645]
+ .
+Step 5. As shown in Figure  8.2.2
+  the test statistic falls in the rejection region. The decision is to reject  H0
+ . In the context of the problem our conclusion is:
+The data provide sufficient evidence, at the  5%
+  level of significance, to conclude that the average time until patients experience perceptible relief from pain using the new pain reliever is smaller than the average time for the standard pain reliever.>(
